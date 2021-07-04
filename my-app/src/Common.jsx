@@ -7,6 +7,7 @@ const Common = (props) => {
     return (
         <>
             <section id="header" className="d-flex align-items-center">
+            <script data-ad-client="ca-pub-1354689301488052" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <div className="container-fluid">
                     <div className="row">
                         <div className="col-10 mx-auto">
